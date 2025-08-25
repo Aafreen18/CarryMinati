@@ -13,7 +13,9 @@ Ask it anything about love, life, or relationships – and be prepared for savag
 ---
 
 ## 🚀 Live Demo  
-[🎥 Watch Demo Video](assets/wreckathon1.mp4)
+[🎥 Watch Demo Video]
+https://github.com/user-attachments/assets/5f6652ac-c63b-4fa4-b2fd-8f72fe3180fa
+
 
 ## ⚡ Features  
 - AI-powered *CarryMinati-style roasting*  

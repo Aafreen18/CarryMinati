@@ -1,55 +1,53 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    <h1 align="center">😂 CarryMinati - Roast Bot</h1>
-    <p align="center">
-      Built with ❤ by <b>Code Crushers</b> for 
-      <a href="https://unstop.com/hackathons/wreckathon-oblivion25-dcode-nsut-1533528">Wreckathon Oblivion'25</a>
-    </p>
+# 😂 CarryMinati - Roast Bot  
 
-    <h2>🚀 Live Demo</h2>
-    <p>Check it out here 👉 <a href="https://carry-minati.vercel.app/">carry-minati.vercel.app</a></p>
+Welcome to *CarryMinati's Roast Bot* – your free relationship & life advisor, but with a roast twist! 🔥  
+Built with ❤ by *Code Crushers* for  
+[Wreckathon Oblivion'25](https://unstop.com/hackathons/wreckathon-oblivion25-dcode-nsut-1533528) 🚀  
 
-    <h2>💡 About the Project</h2>
-    <p>
-      Ever wished CarryMinati could roast your life decisions on demand?  
-      We made it happen! This fun Roast Bot throws witty one-liners 
-      inspired by CarryMinati’s style, making your boring day a little more entertaining.  
-    </p>
+---
 
-    <h2>👨‍💻 Features</h2>
-    <ul>
-      <li>🔥 Instant roasts at a click</li>
-      <li>😂 CarryMinati-style savage replies</li>
-      <li>🎨 Clean and simple UI</li>
-      <li>⚡ Deployed on Vercel for quick access</li>
-    </ul>
+## 🎯 Project Overview  
+This fun project is inspired by CarryMinati’s iconic roasting style.  
+Ask it anything about love, life, or relationships – and be prepared for savage comebacks! 😈  
 
-    <h2>🛠 Tech Stack</h2>
-    <ul>
-      <li>HTML, CSS, JavaScript</li>
-      <li>React.js</li>
-      <li>Vercel</li>
-    </ul>
+---
 
-    <h2>👥 Team - Code Crushers</h2>
-    <ul>
-      <li>Yashika</li>
-      <li>Aafreen</li>
-      <li>Krishna</li>
-    </ul>
+## 🚀 Live Demo  
+👉 [Click here to try the Roast Bot](https://your-live-demo-link.com)  
 
-    <h2>✨ Hackathon Vibes</h2>
-    <p>
-      We teamed up, brainstormed crazy ideas, and ended up creating something fun.  
-      Lots of code, lots of laughs — and here we are with our CarryMinati Roast Bot!  
-    </p>
+---
 
-    <h2>🙏 Acknowledgements</h2>
-    <p>
-      Huge thanks to <b>Wreckathon Oblivion'25</b> for giving us the opportunity  
-      to turn our silly idea into a real project 🚀
-    </p>
-  </body>
-</html>
-ye ddall de
+## ⚡ Features  
+- AI-powered *CarryMinati-style roasting*  
+- Instant responses full of sarcasm & humor  
+- Fun *relationship & life advice*  
+- Lightweight, interactive, and entertaining  
+
+---
+
+## 🛠 Tech Stack  
+- *Frontend:* HTML, CSS, JavaScript  
+- *Backend:* Node.js / Express (if applicable)  
+- *AI/Logic:* Rule-based responses & witty punchlines  
+
+---
+
+## 📸 Screenshots  
+(Add screenshots here once you have them, e.g., bot UI or funny responses.)  
+
+---
+
+## 👩‍💻 Team - Code Crushers  
+- Yashika  
+- [Add your teammates here]  
+
+---
+
+## 📜 License  
+This project is created for *hackathon purposes only*.  
+Feel free to fork and customize it for fun.  
+
+---
+
+## 🤝 Connect with Us  
+If you liked the project, don’t forget to ⭐ the repo!

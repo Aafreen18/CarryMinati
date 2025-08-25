@@ -13,9 +13,7 @@ Ask it anything about love, life, or relationships – and be prepared for savag
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to try the Roast Bot](https://your-live-demo-link.com)  
 
----
 
 ## ⚡ Features  
 - AI-powered *CarryMinati-style roasting*  

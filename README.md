@@ -33,13 +33,13 @@ Ask it anything about love, life, or relationships – and be prepared for savag
 ---
 
 ## 📸 Screenshots  
-(Add screenshots here once you have them, e.g., bot UI or funny responses.)  
-
----
+---![img1](https://github.com/user-attachments/assets/6d0ec1c0-ad55-41bd-a7d0-689d80e6e71e)
+---![img2](https://github.com/user-attachments/assets/8917ed36-5ded-4555-9c59-a85de0fc82fe)
 
 ## 👩‍💻 Team - Code Crushers  
 - Yashika  
-- [Add your teammates here]  
+- Aafreen
+- Krishna
 
 ---
 
